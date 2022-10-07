@@ -1,0 +1,14 @@
+footer p+p{
+    background-color: pink;
+}
+
+span+p,p+p+p{
+    background-color: aqua;
+}
+
+main span+p+p{
+    background-color: gold;
+}
+main > span{
+    background-color: red;
+}
